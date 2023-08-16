@@ -31,4 +31,4 @@ require (
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
 
-replace github.com/ethereum/go-ethereum v1.12.2 => github.com/MatusKysel/go-ethereum v1.12.2-tara
+replace github.com/ethereum/go-ethereum v1.12.2 => github.com/Taraxa-project/go-ethereum v1.12.2-tara

@@ -1,8 +1,8 @@
 github.com/DataDog/zstd v1.5.2 h1:vUG4lAyuPCXO0TLbXvPv7EB7cNK1QV/luu55UHLrrn8=
-github.com/MatusKysel/go-ethereum v1.12.2-tara h1:qLxf2YfPvbCOJA9YHmwPF6ge/6X9hg/2sphQCS5ldH4=
-github.com/MatusKysel/go-ethereum v1.12.2-tara/go.mod h1:1JU/x0JQLBndZb2727eswdCzyF2rFd8SZUj7HDQuVqc=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6 h1:fLjPD/aNc3UIOA6tDi6QXUemppXK3P9BI7mr2hd6gx8=
 github.com/StackExchange/wmi v0.0.0-20180116203802-5d049714c4a6/go.mod h1:3eOhrUMpNV+6aFIbp5/iudMxNCF27Vw2OZgy4xEx0Fg=
+github.com/Taraxa-project/go-ethereum v1.12.2-tara h1:CqlGcoCuiVcQ+7KC4Ajd0hlK4Waf9z+n1m/lHwfZ/o4=
+github.com/Taraxa-project/go-ethereum v1.12.2-tara/go.mod h1:1JU/x0JQLBndZb2727eswdCzyF2rFd8SZUj7HDQuVqc=
 github.com/VictoriaMetrics/fastcache v1.6.0 h1:C/3Oi3EiBCqufydp1neRZkqcwmEiuRT9c3fqvvgKm5o=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/bits-and-blooms/bitset v1.7.0 h1:YjAGVd3XmtK9ktAbX8Zg2g2PwLIMjGREZJHlV4j7NEo=
